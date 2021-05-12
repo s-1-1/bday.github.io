@@ -1,0 +1,94 @@
+
+
+.col-1{
+    background-color: hotpink;
+    width:26.33%;
+    min-height: 250px;
+    float: left;
+    margin:20px 40px 80px 80px  ;
+    background: url(baby.jpg) pink;
+    background-position: center;
+    background-size: 300px 300px;
+
+padding:40px;
+;
+}
+.col-2{
+    background-color: hotpink;
+    width:26.33%;
+    min-height: 550px;
+    margin:20px 40px 80px 80px  ;
+padding:40px;
+background: url(p1.jpg);
+
+    float: left;
+
+}
+.col-3{
+    background-color: hotpink;
+    width:26.33%;
+    min-height: 650px;
+    float: left;
+    margin:20px 40px 80px 80px  ;
+padding:40px;
+background: url(p2.jpg);
+background-size: 600px;
+    
+}
+.col-4{
+    background-color: hotpink;
+    width:29.33%;
+    min-height: 190px;
+    margin:20px 40px 80px 80px  ;
+padding:40px;
+background: url(p3..jpg);
+background-size: 300px;
+background-position: top;
+
+    float: left;
+   
+}
+#bm{
+    background-color: lavenderblush;
+    color: black;
+    background-image: url("https://www.vogue.in/verso/static/vogue-international/assets/logo.3ad9a3dd09515c1c1ddd575eb85e23832477a9bd.svg");
+    background-repeat: no-repeat;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+.col-5{
+    background-color: hotpink;
+    width:26.33%;
+    min-height: 650px;
+    float: left;
+    margin:20px 40px 80px 80px  ;
+padding:40px;
+background: url(p4.jpg);
+background-size: 600px;
+}
+
+.col-6{
+    background-color: hotpink;
+    width:40.33%;
+    min-height: 190px;
+    margin:20px 40px 80px 80px  ;
+padding:40px;
+background: url(p5.jpg);
+background-size: 190px;
+background-position: center;
+
+    float: left;
+}
+.col-7{
+    background-color: hotpink;
+    width:20.33%;
+    min-height: 350px;
+    float: left;
+    margin:20px 40px 80px 80px  ;
+padding:40px;
+background: url(p6.jpg);
+background-size: 400px;
+background-position: top;
+}
+    
